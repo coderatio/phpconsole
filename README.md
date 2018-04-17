@@ -1,6 +1,14 @@
 # PHPConsole
 A PHP code writer, reader and execution app.
 
+<ol>
+  <li>Clean and beautiful code editor</li>
+  <li>Powerful code linter</li>
+  <li>Fast and slick</li>
+  <li>Powerful code previewer</li>
+  <li>Simple setup process</li>
+</ol>
+
 The app for php built with php. Write and execute any php code in seconds. No need for xampp, wampp and browser. The app also supports Laravel codes except the eloquent aspects. Currently, the app works only on Windows OS.
 
 # Download

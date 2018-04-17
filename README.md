@@ -1,5 +1,5 @@
 # PHPConsole
-A PHP code writer, reader and execution app. <a href="#download">Download here</a>
+A PHP code writer, reader and execution app.
 
 <img src="https://github.com/coderatio/phpconsole/blob/master/docs/gif_1.gif"/>
 
@@ -13,9 +13,6 @@ A PHP code writer, reader and execution app. <a href="#download">Download here</
 </ol>
 
 The app for php built with php. Write and execute any php code in seconds. No need for xampp, wampp and browser. The app also supports Laravel codes. Currently, the app works only on Windows OS.
-
-# Download
-<a href="https://www.dropbox.com/sh/btptkggo0co3ciu/AABjNBXt9mFVA2D6DquPMD5ia?dl=0&preview=PHPCSetup.zip">Click on me to download setup</a>.
 
 # Quick Shortcuts
 PHPC have a number of shortcuts but here are quick once. Press ALT + K to see all shortcuts.

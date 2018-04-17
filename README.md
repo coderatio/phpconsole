@@ -1,6 +1,8 @@
 # PHPConsole
 A PHP code writer, reader and execution app.
 
+<img src="https://github.com/coderatio/phpconsole/blob/master/docs/gif_1.gif"/>
+
 <ol>
   <li>Clean and beautiful code editor</li>
   <li>Powerful code linter</li>

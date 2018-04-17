@@ -1,5 +1,5 @@
 # PHPConsole
-A PHP code writer, reader and execution app.
+A PHP code writer, reader and execution app. <a href="#download">Download here</a>
 
 <img src="https://github.com/coderatio/phpconsole/blob/master/docs/gif_1.gif"/>
 

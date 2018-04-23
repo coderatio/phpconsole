@@ -24,8 +24,8 @@ We recommend reinstalling the Visual C++ Redistributable for Visual Studio 2015 
 ### Download .dll File
 There are two files available to download for 32-bits and 64-bits. If your PC runs on 32-bits download the 32-bits file but if 64-bits, download the 64-bits file. After which, you are good to go.
 
-<p><a href="https://download.microsoft.com/download/0/6/4/064F84EA-D1DB-4EAA-9A5C-CC2F0FF6A638/vc_redist.x64.exe">vc_redist.x64.exe(64-bits) - <b>14.3MB</b></p>
-<p><a href="https://download.microsoft.com/download/0/6/4/064F84EA-D1DB-4EAA-9A5C-CC2F0FF6A638/vc_redist.x86.exe">vc_redist.x86.exe(32-bits) - <b>13.5MB</b></p>
+<p><a href="https://download.microsoft.com/download/0/6/4/064F84EA-D1DB-4EAA-9A5C-CC2F0FF6A638/vc_redist.x64.exe">vc_redist.x64.exe(64-bits) - <b>14.3MB</b></a></p>
+<p><a href="https://download.microsoft.com/download/0/6/4/064F84EA-D1DB-4EAA-9A5C-CC2F0FF6A638/vc_redist.x86.exe">vc_redist.x86.exe(32-bits) - <b>13.5MB</b></a></p>
 
 # Quick Shortcuts
 PHPC have a number of shortcuts but here are quick once. Press ALT + K to see all shortcuts.

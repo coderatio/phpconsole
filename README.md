@@ -29,7 +29,7 @@ If your PC runs on 32-bits download the 32-bits file but if 64-bits, download th
 
 # Quick Shortcuts
 PHPC have a number of shortcuts but here are quick once. Press ALT + K to see all shortcuts.
-```vim
+```
 CTRL + S = Save
 CTRL + O = Open snippets
 CTRL + N = Create new snippet

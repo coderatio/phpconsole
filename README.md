@@ -15,6 +15,10 @@ A code writer, reader and execution app for html, css, javascript, php and larav
 
 The app for php built with php. Write and execute any php code in seconds. No need for xampp, wampp and browser. The app also supports Laravel codes. Currently, the app works only on Windows OS.
 
+## Help me host PHPConsole Web and maintain PHPConsole Desktop.
+I'm currently working on the web version of this app and also the upgrades on the desktop version. However, i'm not bouyant enough to get a good hosting space. If you you think you can help with a space or anything possible to help push the project, please, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4F7NHUGCSXK7Q">CLICK HERE</a>. Thanks
+
+
 # Missing VCRUNTIME140.dll fixing
 <img src="https://ugetfix.com/wp-content/uploads/articles/askit/vcruntime140-dll-is-missing-error-windows_en.jpg"/>
 We have noticed that PHP Console failed to load because there was a missing .dll file from some user's PC. Here is a guide to help you out.
@@ -40,3 +44,6 @@ CTRL + K = All Keyboard Shortcuts
 
 # Contribution
 To contribute, kindly send a pull request or find me on <a href="https://twitter.com/josiahoyahaya">Twitter</a>.
+
+## Help me host PHPConsole Web and maintain PHPConsole Desktop.
+I'm currently working on the web version of this app and also the upgrades on the desktop version. However, i'm not bouyant enough to get a good hosting space. If you you think you can help with a space or anything possible to help push the project, please, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4F7NHUGCSXK7Q">CLICK HERE</a>. Thanks.

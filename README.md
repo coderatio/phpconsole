@@ -1,7 +1,7 @@
 # PHPConsole
 A code writer, reader and execution app for html, css, javascript, php and laravel.
 
-<img src="https://github.com/coderatio/phpconsole/blob/master/docs/gif_11.gif"/>
+<img src="https://github.com/coderatio/phpconsole/blob/master/docs/gif.gif"/>
 
 <ol>
   <li>Clean and beautiful code editor</li>
@@ -11,6 +11,7 @@ A code writer, reader and execution app for html, css, javascript, php and larav
   <li>Quick customizer</li>
   <li>Change configurations from editor</li>
   <li>Snippets manager</li>
+  <li>Powerful code popups and instant previewer</li>
 </ol>
 
 The app for php built with php. Write and execute any php code in seconds. No need for xampp, wampp and browser. The app also supports Laravel codes. Currently, the app works only on Windows OS.

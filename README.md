@@ -16,16 +16,8 @@ A code writer, reader and execution app for html, css, javascript, php and larav
 
 The app for php built with php. Write and execute any php code in seconds. No need for xampp, wampp and browser. The app also supports Laravel codes. Currently, the app works only on Windows OS.
 
-## Help me host PHPConsole Web and maintain PHPConsole Desktop.
-I'm currently working on the web version of this app and also the upgrades on the desktop version. However, i'm not bouyant enough to get a good hosting space. If you you think you can help with a space or anything possible to help push the project, please, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4F7NHUGCSXK7Q">CLICK HERE</a>. Thanks
-
-
-# Missing VCRUNTIME140.dll fixing
-<img src="https://ugetfix.com/wp-content/uploads/articles/askit/vcruntime140-dll-is-missing-error-windows_en.jpg"/>
-We have noticed that PHP Console failed to load because there was a missing .dll file from some user's PC. Here is a guide to help you out.
-
-### Recommendations
-If you encountered missing .dll file as shown above, we recommend reinstalling the Visual C++ Redistributable for Visual Studio 2015 to fix the missing VCRUNTIME140.dll error. It is important to follow official Microsoft guidelines and install the missing files properly, otherwise, you will have to struggle with each corrupted program separately, which you clearly do not want to happen.
+### Updating to v0.0.12
+This verion didn't come as a patch so, you are expected to download the new setup file and install. _It will not remove your old version._
 
 ### Get .dll File for your PC
 If your PC runs on 32-bits download the 32-bits file but if 64-bits, download the 64-bits file. After which, you are good to go.
@@ -44,7 +36,5 @@ CTRL + K = All Keyboard Shortcuts
 ```
 
 # Contribution
-To contribute, kindly send a pull request or find me on <a href="https://twitter.com/josiahoyahaya">Twitter</a>.
+To contribute, kindly email me on <a href="http://mailto:josiahoyahaya@gmail.com"><josiahoyahaya@gmail.com></a>, send a pull request or find me on <a href="https://twitter.com/josiahoyahaya">Twitter</a>.
 
-## Help me host PHPConsole Web and maintain PHPConsole Desktop.
-I'm currently working on the web version of this app and also the upgrades on the desktop version. However, i'm not bouyant enough to get a good hosting space. If you you think you can help with a space or anything possible to help push the project, please, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4F7NHUGCSXK7Q">CLICK HERE</a>. Thanks.

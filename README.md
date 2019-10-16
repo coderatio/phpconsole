@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="400" height="336" src="/art/logo.png" alt="PHPConsole logo" />
+</p>
+
 # PHPConsole
 A code writer, reader and execution app for html, css, javascript, php and laravel.
 
@@ -35,6 +39,9 @@ CTRL + H = Help popup
 CTRL + K = All Keyboard Shortcuts
 ```
 
+# Credits
+- Created by [Josiah Yahaya](https://twitter.com/josiahoyahaya)
+- Logo by [Caneco](https://twitter.com/caneco)
+
 # Contribution
 To contribute, kindly email me on <a href="http://mailto:josiahoyahaya@gmail.com"><josiahoyahaya@gmail.com></a>, send a pull request or find me on <a href="https://twitter.com/josiahoyahaya">Twitter</a>.
-
